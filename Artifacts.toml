@@ -1,0 +1,143 @@
+[[goaws]]
+arch = "aarch64"
+git-tree-sha1 = "ed4d248ce6306283f5f1ae017b3d8057006549dc"
+os = "macos"
+
+    [[goaws.download]]
+    sha256 = "7d1daa5624d5ccbc6b856fe05e7cb303173c36021695842eb8211c81efe2150f"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.aarch64-apple-darwin.tar.gz"
+[[goaws]]
+arch = "aarch64"
+git-tree-sha1 = "ee96ca48a8642850f9fcddc4a5f566e6bd72990c"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "c5bd16fc772d2644c606983f04504a36f51a9b287d30d5efe30dc658206ec259"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.aarch64-linux-gnu.tar.gz"
+[[goaws]]
+arch = "aarch64"
+git-tree-sha1 = "ee96ca48a8642850f9fcddc4a5f566e6bd72990c"
+libc = "musl"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "c5bd16fc772d2644c606983f04504a36f51a9b287d30d5efe30dc658206ec259"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.aarch64-linux-musl.tar.gz"
+[[goaws]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6eb98669b4e823fd056d3cdc51b0b604709ffce9"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "cfe27ec84d51f1f0b35cf5e3aef4b5079563098b5ced64bf6b430d9d8d7445f6"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.armv6l-linux-gnueabihf.tar.gz"
+[[goaws]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6eb98669b4e823fd056d3cdc51b0b604709ffce9"
+libc = "musl"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "cfe27ec84d51f1f0b35cf5e3aef4b5079563098b5ced64bf6b430d9d8d7445f6"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.armv6l-linux-musleabihf.tar.gz"
+[[goaws]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "969b770d654c1793bc6efd7e7283c7292e2d273e"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "06a6b590295cedb1b0bed92af3b4ef2ec36fb23e46c358c5f7012120cfe95c1e"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.armv7l-linux-gnueabihf.tar.gz"
+[[goaws]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "969b770d654c1793bc6efd7e7283c7292e2d273e"
+libc = "musl"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "06a6b590295cedb1b0bed92af3b4ef2ec36fb23e46c358c5f7012120cfe95c1e"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.armv7l-linux-musleabihf.tar.gz"
+[[goaws]]
+arch = "i686"
+git-tree-sha1 = "729b8b853adda98bc7ef758c56889f0356d2ce6c"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "dd17d1cbcffcf4bfcc8b5c8a8d16f9e8d5fdfa11979cd5ff0fd864b2a7aa9e0e"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.i686-linux-gnu.tar.gz"
+[[goaws]]
+arch = "i686"
+git-tree-sha1 = "729b8b853adda98bc7ef758c56889f0356d2ce6c"
+libc = "musl"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "dd17d1cbcffcf4bfcc8b5c8a8d16f9e8d5fdfa11979cd5ff0fd864b2a7aa9e0e"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.i686-linux-musl.tar.gz"
+[[goaws]]
+arch = "i686"
+git-tree-sha1 = "ad34d660a48abeb8bc09623ba45c31ed3d7c4007"
+os = "windows"
+
+    [[goaws.download]]
+    sha256 = "60f1df00bb1ed2a0a18f24973c21a620dda8476e34292cb3848b1a665540a1b2"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.i686-w64-mingw32.tar.gz"
+[[goaws]]
+arch = "powerpc64le"
+git-tree-sha1 = "8fddce467942dfd895c500f06461fecdfed85583"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "48f6c0aad24a7c36d4e5a1cc745175f59bc6abeefbb58dc62cb5d74c0b0082ac"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.powerpc64le-linux-gnu.tar.gz"
+[[goaws]]
+arch = "x86_64"
+git-tree-sha1 = "66189b784391a93469bc44e5dbb709a445069f4c"
+os = "macos"
+
+    [[goaws.download]]
+    sha256 = "3c8a10d943617cf26d59e721b7236c201b1845cc68d6429ab41bd054cb427b29"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.x86_64-apple-darwin.tar.gz"
+[[goaws]]
+arch = "x86_64"
+git-tree-sha1 = "9f2f15e83a69a97ea6aece786141214a41a9dc60"
+libc = "glibc"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "7451404ae166b1b910a89370d77e51415e84651b524c640d8e23d2f56f2036b0"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.x86_64-linux-gnu.tar.gz"
+[[goaws]]
+arch = "x86_64"
+git-tree-sha1 = "f6755718cf02779cace97eb07b58a0b5bf81b7b6"
+libc = "musl"
+os = "linux"
+
+    [[goaws.download]]
+    sha256 = "2db3c3c6c8e93d44615084e2bffc092f74dae34ec50deaaa8a5a8bc8b0231a7b"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.x86_64-linux-musl.tar.gz"
+[[goaws]]
+arch = "x86_64"
+git-tree-sha1 = "465dae7b5c39302b6bddd82bf58700222297f759"
+os = "freebsd"
+
+    [[goaws.download]]
+    sha256 = "ad8adcc5be5202bfb8a9437e9a5f0c00a3fb54eff658cd887805e07494f44b1a"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.x86_64-unknown-freebsd.tar.gz"
+[[goaws]]
+arch = "x86_64"
+git-tree-sha1 = "4e5e455d7ec39e0e1aa48597092ccd185cd5ae71"
+os = "windows"
+
+    [[goaws.download]]
+    sha256 = "6e2aef59eda35d3d2c0f78a18c011360cb9746b5ca60ff7ba07c65a6090c335d"
+    url = "https://github.com/JuliaBinaryWrappers/goaws_jll.jl/releases/download/goaws-v0.4.5+0/goaws.v0.4.5.x86_64-w64-mingw32.tar.gz"
